@@ -18,7 +18,7 @@ res = list(tuple)
 print(res)
 
 
-d = {"A":10,"B":20,"C":30} # key value pair.
+d = {"A":10,"B":50,"C":30} # key value pair.
 res = list(d) # it only store the keys.
 print(res)
 
